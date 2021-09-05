@@ -3,7 +3,7 @@
       DataScience Tools gave me the perfect oppurtunity making my passion into tangible outputs.
 
 - 🌱 I’m currently learning ...Deep Learning and Big Data Analytics
-- 💞️ I’m looking to collaborate on ...Machine Learning Projects
+- 💞️ I’m looking to collaborate on ...Machine & Deep Learning Projects
 - 📫 How to reach me ...antarlin921@gmail.com
 
 <!---
