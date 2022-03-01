@@ -1,4 +1,4 @@
-- 👋 Hi, I’mAntarlin Chanda
+- 👋 Hi, I’m Antarlin Chanda
 - 👀 I’m interested in  solving real world problems and finding out why things happen and their subtle underlying causes.
       DataScience Tools gave me the perfect oppurtunity making my passion into tangible outputs.
 
