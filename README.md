@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Antarlin Chanda
 - 👀 I’m interested in  solving real world problems and finding out why things happen and their subtle underlying causes.
-      DataScience Tools gave me the perfect oppurtunity making my passion into tangible outputs.
+      DataScience Tools gave me the perfect oppurtunity toi make my passion into tangible outputs.
 
-- 🌱 I’m currently learning Deep Learning and Big Data Analytics
+- 🌱 I’m currently learning Machine Learning,Deep Learning and Big Data Analytics
 - 💞️ I’m looking to collaborate on Machine & Deep Learning Projects
-- 📫 How to reach me antarlin921@gmail.com
+- 📫 How to reach me antarlin921@gmail.com,https://www.linkedin.com/in/antarlin-chanda-71ba9b126/
 
 <!---
 Antarlin921/Antarlin921 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
