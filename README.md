@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I am a Data Scientist currently working on Various Problems related top E-Commerce and Offline Retail Stores focussed on increasing sales and margins. I use various tools and frameworks like Python, R, SQL, Power BI and Excel. I make Machine Learning and Statistical Models and use Libraries like NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow and PyTorch. Azure Certified Data Scientist . Azure x 4 | DP-100, AZ-900, AI-900 and DP-900 Underwent a career shift from manufacturing domain after becoming interested in the Analytics and Data Science field.
+I am a Data Scientist currently working on Various Problems related top E-Commerce and Offline Retail Stores focussed on increasing sales and margins. I use various tools and frameworks like Python, R, SQL, Power BI and Excel. I make Machine Learning and Statistical Models and use Libraries like NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow and PyTorch. Azure Certified Data Scientist . Azure x 4 | DP-100, AZ-900, AI-900 and DP-900 Underwent a career shift from core manufacturing domain after becoming interested in the Analytics and Data Science field.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [antarlin921@gmail.com](mailto:antarlin921@gmail.com)
