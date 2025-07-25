@@ -6,11 +6,11 @@ Senior Data Scientist
 
 I am a Senior Data Scientist currently working on Various Problems related to E-Commerce and Offline Retail Stores focussed on increasing sales and margins. I use various tools and frameworks like Python, R, SQL, Power BI and Excel. I make Machine Learning and Statistical Models and use Libraries like NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow and PyTorch.
 
-Highly skilled in cloud platforms like Azure and AWS. Azure x 4 | DP-100, DP-203, AZ-900, AI-900 and DP-900 . Have skillsets in both Data Science and Data Engineering. Had previously completed full time post graduation in Data Sceince from Praxis Business School and currently pursuing MS in Data Science with Data Engineering Specialization from Liverpool John Moore's University.
+Highly skilled in cloud platforms like Azure and AWS. Azure x 5 | DP-100, DP-203, AZ-900, AI-900 and DP-900 . Have skillsets in both Data Science, Data Engineering and Cloud Computing. Had previously completed MS in Data Science from Liverpool John Moore's University, Post Gradutaion Diploma in Data Science with Specialization in Data Engineering from IIIT Bangalore, full time post graduation in Data Sceince from Praxis Business School.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [antarlin921@gmail.com](mailto:antarlin921@gmail.com)
-* 🧠  I'm learning Azure Machine Learning Services and Ecommerce Analytics
+* 🧠  I'm learning Cloud Computing and MLOPs in more depth now 
 * 🤝  I'm open to collaborating on Challenging Data Science Projects
 
 ### Skills
