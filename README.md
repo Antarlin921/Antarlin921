@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Antarlin Chanda
 =======================================================================================================================================
 
-Data Scientist
+Senior Data Scientist
 --------------
 
-I am a Data Science Engineer currently working on Various Problems related to E-Commerce and Offline Retail Stores focussed on increasing sales and margins. I use various tools and frameworks like Python, R, SQL, Power BI and Excel. I make Machine Learning and Statistical Models and use Libraries like NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow and PyTorch.
+I am a Senior Data Scientist currently working on Various Problems related to E-Commerce and Offline Retail Stores focussed on increasing sales and margins. I use various tools and frameworks like Python, R, SQL, Power BI and Excel. I make Machine Learning and Statistical Models and use Libraries like NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow and PyTorch.
 
 Highly skilled in cloud platforms like Azure and AWS. Azure x 4 | DP-100, DP-203, AZ-900, AI-900 and DP-900 . Have skillsets in both Data Science and Data Engineering. Had previously completed full time post graduation in Data Sceince from Praxis Business School and currently pursuing MS in Data Science with Data Engineering Specialization from Liverpool John Moore's University.
 
