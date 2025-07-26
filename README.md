@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Data Scientist
 --------------
 
-I am a Senior Data Scientist currently working on Various Problems related to E-Commerce and Offline Retail Stores focussed on increasing sales and margins. I use various tools and frameworks like Python, R, SQL, Power BI and Excel. I make Machine Learning and Statistical Models and use Libraries like NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow and PyTorch.
+I am a Senior Data Scientist currently working on Various Problems related to E-Commerce, Retail, Manufacturing and Optimization focussed on increasing sales and margins. I use various tools and frameworks like Python, SQL, Power BI. I am highly proficient in Micrsoft Azure and AWS and actively work in the Databricks Environment. I make Machine Learning and Statistical Models and use Libraries like NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow and PyTorch.
 
-Highly skilled in cloud platforms like Azure and AWS. Azure x 5 | DP-100, DP-203, AZ-900, AI-900 and DP-900 . Have skillsets in both Data Science, Data Engineering and Cloud Computing. Had previously completed MS in Data Science from Liverpool John Moore's University, Post Gradutaion Diploma in Data Science with Specialization in Data Engineering from IIIT Bangalore, full time post graduation in Data Sceince from Praxis Business School.
+Highly skilled in cloud platforms like Azure and AWS. Azure x 5 | DP-100, DP-203, AZ-900, AI-900 and DP-900 . Have skillsets in both Data Science, Data Engineering and Cloud Computing. Had  completed MS in Data Science from Liverpool John Moore's University, Post Gradutaion Diploma in Data Science with Specialization in Data Engineering from IIIT Bangalore, full time post graduation in Data Sceince from Praxis Business School.
+
+Proficient in leading end-to-end ML projects, building scalable infrastructure, and driving business outcomes through actionable insights. Passionate about solving complex problems with data, while fostering innovation and collaboration within teams. Experienced in mentoring and hiring data science talent, and influencing organization-wide data strategy. Actively seeking a senior-level role in an organization that drives core decision-making through data.
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [antarlin921@gmail.com](mailto:antarlin921@gmail.com)
